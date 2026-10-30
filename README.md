@@ -24,8 +24,9 @@ To answer this, the project compares:
 ```text
 .
 ├── .gitignore
-├── 01_eda_ml_models_comparison.ipynb
-├── 02_distilbert_generalization.ipynb
+├── notebooks/
+│   ├── 01_eda_ml_models_comparison.ipynb
+│   └── 02_distilbert_generalization.ipynb
 ├── LICENSE
 ├── README.md
 └── requirements.txt
