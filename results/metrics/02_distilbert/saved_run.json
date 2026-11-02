@@ -1,0 +1,34 @@
+{
+  "source": "Saved outputs of notebooks/02_distilbert_generalization.ipynb",
+  "custom_predictions": "Labels and texts checked against the original 40-record JSON.",
+  "confidence_precision": "Recovered from the displayed table, rounded to four decimal places.",
+  "test_accuracy": "Computed from 183 errors among 9683 examples in the saved outputs.",
+  "custom_confusion_matrix": [
+    [
+      13,
+      7
+    ],
+    [
+      3,
+      17
+    ]
+  ],
+  "execution_environment": {
+    "python": "3.13.16",
+    "torch": "2.11.0+cu130",
+    "transformers": "5.21.0",
+    "accelerate": "1.15.0",
+    "device": "Tesla T4"
+  },
+  "test_confusion_matrix": [
+    [
+      4370,
+      106
+    ],
+    [
+      77,
+      5130
+    ]
+  ],
+  "test_metrics": "Computed from counts in the saved test confusion-matrix image."
+}

@@ -1,0 +1,6 @@
+model,training input,test accuracy,custom accuracy
+DistilBERT,headline,0.9811008984818754,0.75
+XGBoost,title + body,0.978828875348549,0.35
+LinearSVC,title + body,0.9797583393576372,0.45
+MLP (Neural Net),title + body,0.9774863162243108,0.35
+LinearSVC headline baseline,headline,0.9195497263244862,0.575
