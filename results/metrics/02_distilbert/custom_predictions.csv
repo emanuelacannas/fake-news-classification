@@ -1,0 +1,41 @@
+id,text,label,origin,source,source_url,publication_date,label_verified,prediction,confidence
+synthetic_01,President Donald said on Tuesday that talks with GOP officials were progressing after recent policy discussions,0,synthetic,,,,False,0,0.9989
+synthetic_02,Hillary Clinton told Reuters on Wednesday that new proposals would be reviewed following recent developments in Congress,0,synthetic,,,,False,0,0.9977
+synthetic_03,President Barack said on Thursday in a Reuters interview that long-term reforms remain a priority heading into November,0,synthetic,,,,False,1,0.8745
+synthetic_04,White House officials said on Monday that new sanctions against Iran would be delayed pending talks with European allies,0,synthetic,,,,False,1,0.9957
+synthetic_05,Senate Republicans introduced a revised immigration proposal after overnight negotiations with Democratic lawmakers,0,synthetic,,,,False,1,0.9794
+synthetic_06,Federal Reserve officials discussed possible emergency measures following renewed concerns over regional bank stability,0,synthetic,,,,False,1,0.985
+synthetic_07,U.S. officials told reporters that military advisers would remain in eastern Syria despite earlier withdrawal plans,0,synthetic,,,,False,1,0.9969
+synthetic_08,Supreme Court conservatives appeared divided during arguments over state restrictions on early voting access,0,synthetic,,,,False,0,0.8356
+synthetic_09,State Department officials confirmed that trade negotiations with China would resume next month in Singapore,0,synthetic,,,,False,1,0.9995
+synthetic_10,Donald Trump told supporters during a rally in Ohio that new tariffs on imported vehicles were under consideration,0,synthetic,,,,False,0,0.998
+synthetic_11,NASA researchers admitted in a leaked memo that Arctic ice levels have actually increased by 20% since 2010,0,synthetic,,,,False,0,0.9993
+synthetic_12,Energy Department engineers successfully tested a new cold fusion reactor that provides unlimited power at zero cost,0,synthetic,,,,False,0,0.9993
+synthetic_13,A new United Nations directive mandates that all internal combustion engine vehicles must be scrapped by the end of 2027,0,synthetic,,,,False,0,0.9634
+synthetic_14,Federal regulators announced a permanent national ceiling on gasoline prices to combat inflation effectively,0,synthetic,,,,False,0,0.9851
+synthetic_15,Climatologists at the European Space Agency confirmed that the recent cooling of the sun's surface will reverse global warming by 2030,0,synthetic,,,,False,1,0.9993
+synthetic_16,Global energy giants discovered an untapped oil field beneath the Atlantic that could power the planet for three centuries,0,synthetic,,,,False,0,0.9991
+synthetic_17,A secret government report indicates that offshore wind farms are causing a permanent shift in regional weather patterns,0,synthetic,,,,False,0,0.9989
+synthetic_18,Electric vehicle manufacturers face a federal probe after reports that recycled battery components are prone to spontaneous combustion,0,synthetic,,,,False,0,0.998
+synthetic_19,The Environmental Protection Agency is planning a mandatory carbon tax for all residential homes starting in 2027,0,synthetic,,,,False,0,0.9986
+synthetic_20,New satellite data from a private research firm shows the Sahara Desert is rapidly turning green due to a sudden moisture surge,0,synthetic,,,,False,0,0.9983
+reported_01,Louisiana delays U.S. House primary to draw new map after Supreme Court ruling,1,reported news headline,Reuters,,,False,1,0.9995
+reported_02,Trump signs bill to fund DHS after lengthy shutdown over ICE operations,1,reported news headline,Reuters,,,False,1,0.9938
+reported_03,White House says Iran war terminated as War Powers deadline arrives,1,reported news headline,Reuters,,,False,1,0.9995
+reported_04,"Warned off vaccine actions, Kennedy seeks quick health wins ahead of midterms",1,reported news headline,Reuters,,,False,1,0.9968
+reported_05,U.S. prosecutor who lost job over AI-generated errors is rebuked by judge,1,reported news headline,Reuters,,,False,1,0.9826
+reported_06,U.S. power grid operator PJM is considering market overhaul,1,reported news headline,Reuters,,,False,1,0.9997
+reported_07,Maryland lawmakers await answers after air base jet fuel spill,1,reported news headline,Reuters,,,False,1,0.9984
+reported_08,U.S. judge will not rubber-stamp Elon Musk settlement with SEC,1,reported news headline,Reuters,,,False,1,0.9994
+reported_09,Democratic senators call early U.S. review of Disney station licenses 'abuse of power',1,reported news headline,Reuters,,,False,1,0.9997
+reported_10,Trump's crackdown on China-linked solar firms stalls U.S. factory boom,1,reported news headline,Reuters,,,False,1,0.9998
+reported_11,Colorado River to hit record low after worst-ever Rockies snowpacks,1,reported news headline,Reuters,,,False,1,0.918
+reported_12,"Enel reports rise in Q1 core profit, readies Brazil defence action",1,reported news headline,Reuters,,,False,1,0.9998
+reported_13,BP to sell stakes in flagship UK carbon capture projects in Northern England,1,reported news headline,Reuters,,,False,1,0.9991
+reported_14,Suspected oil spill seen on satellite images near Iran's Kharg Island export hub,1,reported news headline,Reuters,,,False,1,0.9998
+reported_15,French utility Engie not changing Middle East strategy despite disruptions,1,reported news headline,Reuters,,,False,1,0.9998
+reported_16,What to know about the predictions for a potentially record-breaking El Nino,1,reported news headline,AP News,,,False,0,0.9909
+reported_17,"Despite gains combating deforestation in Brazil’s Amazon, forest degradation is a looming threat",1,reported news headline,AP News,,,False,0,0.9803
+reported_18,"Agency will move forward with plans to propose weakening some Biden-era PFAS limits, official says",1,reported news headline,AP News,,,False,1,0.9992
+reported_19,Scientists say don’t forget about plants. Climate change is endangering tens of thousands of species,1,reported news headline,AP News,,,False,0,0.9997
+reported_20,"Planes and ships could run on kelp someday, but there are serious hurdles",1,reported news headline,AP News,,,False,1,0.7197

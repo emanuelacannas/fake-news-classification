@@ -1,0 +1,4 @@
+,Accuracy,Precision,Recall,F1-Score
+XGBoost,0.35,0.0,0.0,0.0
+LinearSVC,0.45,0.4375,0.35,0.3888888888888889
+MLP (Neural Net),0.35,0.3125,0.25,0.2777777777777778

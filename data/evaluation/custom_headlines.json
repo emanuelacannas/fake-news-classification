@@ -1,0 +1,402 @@
+[
+  {
+    "id": "synthetic_01",
+    "text": "President Donald said on Tuesday that talks with GOP officials were progressing after recent policy discussions",
+    "label": 0,
+    "origin": "synthetic",
+    "source": null,
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "synthetic_02",
+    "text": "Hillary Clinton told Reuters on Wednesday that new proposals would be reviewed following recent developments in Congress",
+    "label": 0,
+    "origin": "synthetic",
+    "source": null,
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "synthetic_03",
+    "text": "President Barack said on Thursday in a Reuters interview that long-term reforms remain a priority heading into November",
+    "label": 0,
+    "origin": "synthetic",
+    "source": null,
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "synthetic_04",
+    "text": "White House officials said on Monday that new sanctions against Iran would be delayed pending talks with European allies",
+    "label": 0,
+    "origin": "synthetic",
+    "source": null,
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "synthetic_05",
+    "text": "Senate Republicans introduced a revised immigration proposal after overnight negotiations with Democratic lawmakers",
+    "label": 0,
+    "origin": "synthetic",
+    "source": null,
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "synthetic_06",
+    "text": "Federal Reserve officials discussed possible emergency measures following renewed concerns over regional bank stability",
+    "label": 0,
+    "origin": "synthetic",
+    "source": null,
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "synthetic_07",
+    "text": "U.S. officials told reporters that military advisers would remain in eastern Syria despite earlier withdrawal plans",
+    "label": 0,
+    "origin": "synthetic",
+    "source": null,
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "synthetic_08",
+    "text": "Supreme Court conservatives appeared divided during arguments over state restrictions on early voting access",
+    "label": 0,
+    "origin": "synthetic",
+    "source": null,
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "synthetic_09",
+    "text": "State Department officials confirmed that trade negotiations with China would resume next month in Singapore",
+    "label": 0,
+    "origin": "synthetic",
+    "source": null,
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "synthetic_10",
+    "text": "Donald Trump told supporters during a rally in Ohio that new tariffs on imported vehicles were under consideration",
+    "label": 0,
+    "origin": "synthetic",
+    "source": null,
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "synthetic_11",
+    "text": "NASA researchers admitted in a leaked memo that Arctic ice levels have actually increased by 20% since 2010",
+    "label": 0,
+    "origin": "synthetic",
+    "source": null,
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "synthetic_12",
+    "text": "Energy Department engineers successfully tested a new cold fusion reactor that provides unlimited power at zero cost",
+    "label": 0,
+    "origin": "synthetic",
+    "source": null,
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "synthetic_13",
+    "text": "A new United Nations directive mandates that all internal combustion engine vehicles must be scrapped by the end of 2027",
+    "label": 0,
+    "origin": "synthetic",
+    "source": null,
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "synthetic_14",
+    "text": "Federal regulators announced a permanent national ceiling on gasoline prices to combat inflation effectively",
+    "label": 0,
+    "origin": "synthetic",
+    "source": null,
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "synthetic_15",
+    "text": "Climatologists at the European Space Agency confirmed that the recent cooling of the sun's surface will reverse global warming by 2030",
+    "label": 0,
+    "origin": "synthetic",
+    "source": null,
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "synthetic_16",
+    "text": "Global energy giants discovered an untapped oil field beneath the Atlantic that could power the planet for three centuries",
+    "label": 0,
+    "origin": "synthetic",
+    "source": null,
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "synthetic_17",
+    "text": "A secret government report indicates that offshore wind farms are causing a permanent shift in regional weather patterns",
+    "label": 0,
+    "origin": "synthetic",
+    "source": null,
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "synthetic_18",
+    "text": "Electric vehicle manufacturers face a federal probe after reports that recycled battery components are prone to spontaneous combustion",
+    "label": 0,
+    "origin": "synthetic",
+    "source": null,
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "synthetic_19",
+    "text": "The Environmental Protection Agency is planning a mandatory carbon tax for all residential homes starting in 2027",
+    "label": 0,
+    "origin": "synthetic",
+    "source": null,
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "synthetic_20",
+    "text": "New satellite data from a private research firm shows the Sahara Desert is rapidly turning green due to a sudden moisture surge",
+    "label": 0,
+    "origin": "synthetic",
+    "source": null,
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "reported_01",
+    "text": "Louisiana delays U.S. House primary to draw new map after Supreme Court ruling",
+    "label": 1,
+    "origin": "reported news headline",
+    "source": "Reuters",
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "reported_02",
+    "text": "Trump signs bill to fund DHS after lengthy shutdown over ICE operations",
+    "label": 1,
+    "origin": "reported news headline",
+    "source": "Reuters",
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "reported_03",
+    "text": "White House says Iran war terminated as War Powers deadline arrives",
+    "label": 1,
+    "origin": "reported news headline",
+    "source": "Reuters",
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "reported_04",
+    "text": "Warned off vaccine actions, Kennedy seeks quick health wins ahead of midterms",
+    "label": 1,
+    "origin": "reported news headline",
+    "source": "Reuters",
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "reported_05",
+    "text": "U.S. prosecutor who lost job over AI-generated errors is rebuked by judge",
+    "label": 1,
+    "origin": "reported news headline",
+    "source": "Reuters",
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "reported_06",
+    "text": "U.S. power grid operator PJM is considering market overhaul",
+    "label": 1,
+    "origin": "reported news headline",
+    "source": "Reuters",
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "reported_07",
+    "text": "Maryland lawmakers await answers after air base jet fuel spill",
+    "label": 1,
+    "origin": "reported news headline",
+    "source": "Reuters",
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "reported_08",
+    "text": "U.S. judge will not rubber-stamp Elon Musk settlement with SEC",
+    "label": 1,
+    "origin": "reported news headline",
+    "source": "Reuters",
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "reported_09",
+    "text": "Democratic senators call early U.S. review of Disney station licenses 'abuse of power'",
+    "label": 1,
+    "origin": "reported news headline",
+    "source": "Reuters",
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "reported_10",
+    "text": "Trump's crackdown on China-linked solar firms stalls U.S. factory boom",
+    "label": 1,
+    "origin": "reported news headline",
+    "source": "Reuters",
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "reported_11",
+    "text": "Colorado River to hit record low after worst-ever Rockies snowpacks",
+    "label": 1,
+    "origin": "reported news headline",
+    "source": "Reuters",
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "reported_12",
+    "text": "Enel reports rise in Q1 core profit, readies Brazil defence action",
+    "label": 1,
+    "origin": "reported news headline",
+    "source": "Reuters",
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "reported_13",
+    "text": "BP to sell stakes in flagship UK carbon capture projects in Northern England",
+    "label": 1,
+    "origin": "reported news headline",
+    "source": "Reuters",
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "reported_14",
+    "text": "Suspected oil spill seen on satellite images near Iran's Kharg Island export hub",
+    "label": 1,
+    "origin": "reported news headline",
+    "source": "Reuters",
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "reported_15",
+    "text": "French utility Engie not changing Middle East strategy despite disruptions",
+    "label": 1,
+    "origin": "reported news headline",
+    "source": "Reuters",
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "reported_16",
+    "text": "What to know about the predictions for a potentially record-breaking El Nino",
+    "label": 1,
+    "origin": "reported news headline",
+    "source": "AP News",
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "reported_17",
+    "text": "Despite gains combating deforestation in Brazil’s Amazon, forest degradation is a looming threat",
+    "label": 1,
+    "origin": "reported news headline",
+    "source": "AP News",
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "reported_18",
+    "text": "Agency will move forward with plans to propose weakening some Biden-era PFAS limits, official says",
+    "label": 1,
+    "origin": "reported news headline",
+    "source": "AP News",
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "reported_19",
+    "text": "Scientists say don’t forget about plants. Climate change is endangering tens of thousands of species",
+    "label": 1,
+    "origin": "reported news headline",
+    "source": "AP News",
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  },
+  {
+    "id": "reported_20",
+    "text": "Planes and ships could run on kelp someday, but there are serious hurdles",
+    "label": 1,
+    "origin": "reported news headline",
+    "source": "AP News",
+    "source_url": null,
+    "publication_date": null,
+    "label_verified": false
+  }
+]
